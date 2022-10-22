@@ -3,4 +3,5 @@
 # What I learned
 * Implement a data structure inherited by virtual functions
 * Memory allocation and data management.
-* The use of abstract data types.
+* Abstract Data Type.
+* Operator overload.
