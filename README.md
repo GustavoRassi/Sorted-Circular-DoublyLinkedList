@@ -1,4 +1,4 @@
-# SortedCircular-DoublyLinkedList
+# Description
 * A demonstration of how a data structure works.
 # What I learned
 * Implement a data structure inherited by virtual functions
